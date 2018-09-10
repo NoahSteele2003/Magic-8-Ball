@@ -15,5 +15,9 @@ public class Magic8Ball {
         System.out.println("Pick a number between 1 and 100.");
         value = keyboard.nextInt();
 
+        if (value >= 1 && value<=10){ System.out.println("yes");}
+
+
+
     }
 }
