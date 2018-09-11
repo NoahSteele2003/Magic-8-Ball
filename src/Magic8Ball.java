@@ -1,6 +1,3 @@
-import sun.awt.SunToolkit;
-import sun.java2d.pipe.LoopBasedPipe;
-
 import java.util.Scanner;
 
 public class Magic8Ball {
@@ -28,6 +25,7 @@ public class Magic8Ball {
         else if (value>70 && value<=80){System.out.println("It will never happen");}
         else if (value>80 && value<=90){System.out.println("For sure!");}
         else if (value>90 && value<=100){System.out.println("Definitely not");}
+
 
 
 
