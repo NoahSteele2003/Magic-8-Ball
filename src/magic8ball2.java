@@ -1,9 +1,8 @@
 import java.util.Scanner;
 
-public class Magic8Ball {
+public class magic8ball2 {
 
-    public static void main(String[]args){
-
+    public static void main(String[] args){
         Scanner keyboard;
         keyboard = new Scanner(System.in);
 
@@ -42,14 +41,3 @@ public class Magic8Ball {
 
     }
 }
-
-
-
-
-
-
-
-
-
-
-
